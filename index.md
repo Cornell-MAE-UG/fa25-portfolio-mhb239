@@ -6,7 +6,7 @@ title: Mamadou
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/IMG_13852.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/headshot.jpg" | relative_url }}){: class="profile-image"}
  
  Mamadou is pursuing a Bachelor of Science in Mechanical Engineering at Cornell University, with a focus on developing technical and soft skill expertise. His coursework so far has provided him with a strong foundation in Physics, computing,  and advanced mathematics which have strengthened both his problem-solving skills and curiosity towards Applications of Engineering in real world challenges.
 

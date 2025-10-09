@@ -8,67 +8,45 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [mhb239@cornell.edu](mailto:mhb239@cornell.edu) | | | **Phone:** +929 278 1937
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring Mechanical Engineering student with a strong foundation in statics, mechanics, and problem-solving. Passionate about understanding how systems work and using engineering principles to design practical, efficient solutions. Eager to apply my knowledge in real-world applications that combine technical thinking with hands-on design and analysis.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.1/4.0 | Graduation: 05, 2028
 
-- **[High School Name]**  
+- **[University Neighborhood High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [06, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, Microsoft Office, Google Suit  
+- **Programming:** Python 
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Stochastic Queue Jockeying & Deterministic Platoon Optimization for Autonomous Vehicle Bottleneck Flow.]**:  
+  *[Analyzed traffic efficiency improvements across I-95 at SR-4 (Fort Lee, NJ) and I-285/I-85N (Atlanta, GA), demonstrating measurable ]*  
+  - Developed a deterministic platoon optimization model by converting real-world 24-hour speed/traffic profiles into fixed arrival
+streams, enabling comparison against U.S. highway bottleneck case studies.
+  - Presented at a symposium, showcasing data-driven insights into AV platooning and queueing strategies as scalable tools for future
+traffic management systems. 
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [NYC State of Civic Readiness, [NYC], [2024]  
+-   
 
 ---
 
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
-
----

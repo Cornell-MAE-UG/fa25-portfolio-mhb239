@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Mamadou
 description              : Mamadou - Projects and CV 
-baseurl                  : "/spring-2025-portfolio-mhb239/" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-mhb239/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal

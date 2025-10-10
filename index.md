@@ -15,3 +15,5 @@ At Cornell’s Engineering Summer Math Research Institute (ESMI), He contributed
 Previously he interned at the NYC Department of Youth & Community Development (DYCD). In this role, he organized youth summits, partnered with organizations to strengthen civic involvement, and helped support underserved neighborhoods. This opportunity provided him with experience and skills in leadership,  communication, collaboration, social responsibility and community engagement.
 
 His interest lies in the energy sector of Mechanical Engineering, Mainly in the design and building of eco-friendly energy systems. He hopes to bring  a collaborative and environmental responsibility perspective in engineering challenges while leveraging his strong background in technical and soft skills.
+
+Take a look at <a href="{{ "/projects/" | relative_ur| }}">my projects and <a href="{{"/cv/" | relative_ur| }}">CV.

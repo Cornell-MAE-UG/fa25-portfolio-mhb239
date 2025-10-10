@@ -16,4 +16,4 @@ Previously he interned at the NYC Department of Youth & Community Development (D
 
 His interest lies in the energy sector of Mechanical Engineering, Mainly in the design and building of eco-friendly energy systems. He hopes to bring  a collaborative and environmental responsibility perspective in engineering challenges while leveraging his strong background in technical and soft skills.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV<a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

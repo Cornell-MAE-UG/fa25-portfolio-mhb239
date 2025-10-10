@@ -3,7 +3,7 @@ layout: project
 title: Frame Design
 description: Desing a lifting mechanism to life max possible weight to highest possible height.
 technologies: N/A
-image: /assets/images/Mechanism_Design.jpg
+image: /assets/images/Mechanism-Design.jpg
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mamadou
+title: Mamadou Barry
 ---
 
 ## About Me

@@ -6,6 +6,6 @@ image: /assets/images/SpottedLanterFly.jpg
 
 ---
 
-This client pitch was developed as part of our MAE 2250 Open Design Project focused on reducing the impact of spotted lanternflies (SLFs) in vineyards. Our team identified the key problem affecting grape production and proposed a preventative light-based trapping strategy aimed at limiting SLF interaction with grapevines.
+This client pitch was developed as part of our MAE 2250 Open Design Project focused on reducing the impact of spotted lanternflies (SLFs) in vineyards. Our team identified the key problem affecting grape production and proposed a preventative light-based trapping strategy aimed at limiting SLF interaction with grapevines. In the proposal, we also outlined specific technical and biological questions for our clients to help guide future development, including uncertainties related to light wavelength effectiveness, insect behavior near light sources, and potential impacts on other vineyard ecosystems.
 
-[View Our Work]({{ "assets/O3_GrapeGuardians.pdf" | relative_url }})
+[View Our client pitch]({{ "assets/O3_GrapeGuardians.pdf" | relative_url }})

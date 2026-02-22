@@ -2,8 +2,8 @@
 layout: project
 title: ODP Client Pitch
 description: One-page client pitch proposing a light-based trapping system to prevent spotted lanternfly contact with grapevines.
+technologies: N/A
 image: /assets/images/SpottedLanterFly.jpg
-Technologies used: N/A
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Spotted Lantern Fly ODP
-description: Designing,fabrication, and testing of a light-integrated, rotating mechanical trap
-technologies:N/A
+description: Designing, and building a light-integrated rotating mechanical trap
+technologies: CAD
 image: /assets/images/SpottedLanterFly.jpg
 
 ---

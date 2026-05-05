@@ -11,4 +11,4 @@ This project was developed as part of our MAE 2250 Open Design Project and focus
 
 [View Our client pitch]({{ "assets/O3_GrapeGuardians.pdf" | relative_url }})<br>
 [View Our Functional Prototype]({{ "assets/ODP_5.pdf" | relative_url }})<br>
-[View Our Client report]({{ "Final_ODP.pdf" | relative_url }})
+[View Our Client report]({{ "assets/Final_ODP.pdf" | relative_url }})

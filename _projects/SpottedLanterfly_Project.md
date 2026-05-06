@@ -11,10 +11,12 @@ This project was developed as part of our MAE 2250 Open Design Project and focus
 
 <h3>Client Pitch</h3>
 <iframe src="{{ 'assets/O3_GrapeGuardians.pdf' | relative_url }}" width="100%" height="500px"></iframe>
+[View full client pitch]({{ "assets/O3_GrapeGuardians.pdf" | relative_url }})<br>
 
 <h3>Prototype</h3>
 <iframe src="{{ 'assets/ODP_5.pdf' | relative_url }}" width="100%" height="500px"></iframe>
-
+[View full functional Prototype]({{ "assets/ODP_5.pdf" | relative_url }})<br>
+ 
 <h3>Final Report</h3>
 <iframe src="{{ 'assets/client_report.pdf' | relative_url }}" width="100%" height="500px"></iframe>
-
+[View full client report]({{ "assets/client_report.pdf" | relative_url }})
